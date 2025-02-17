@@ -90,7 +90,7 @@ I analyzed multiple datasets:
 ## 📜 Detailed Report
 A **more detailed report** containing in-depth statistical analysis, methodology, charts, and policy insights is included in the project files.
 
-📄 **Read the full report here:** 
+📄 **Read the full report here:** https://github.com/easycase00/Utility-Disconnection-Analysis-/blob/main/Utility%20Disconnection%20%20Project%20Report.pdf
 
 ---
 
